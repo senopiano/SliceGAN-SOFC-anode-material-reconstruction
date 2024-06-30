@@ -18,7 +18,5 @@ Input the generated images into *Avizo*. Apply the function of threshold segment
 | Source |  Porosity(%) |
 | ---------- | :-----------:  |
 | Generated | 20.48 |
-| ---------- | :-----------:  |
 | Original | 20.63 |
-| ---------- | :-----------:  |
 | Error | 0.73% |
