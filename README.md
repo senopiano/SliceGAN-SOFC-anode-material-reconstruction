@@ -7,4 +7,4 @@ The data set is composed of a big SEM picture which has already been segmented. 
 ## SliceGAN network
 You can download *Network.py* to see the code. The structure of the whole network is shown as below.
 
-![image](sliceGAN structure.png)
+![image](https://github.com/senopiano/SliceGAN-SOFC-anode-material-reconstruction/blob/main/sliceGAN%20structure.png)
