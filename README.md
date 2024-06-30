@@ -6,4 +6,5 @@ The data set is composed of a big SEM picture which has already been segmented. 
 ![image](anode_segmented_tiff_z050.png)
 ## SliceGAN network
 You can download *Network.py* to see the code. The structure of the whole network is shown as below.
+
 ![image](sliceGAN structure.png)
