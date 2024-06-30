@@ -3,4 +3,4 @@ In this project, we use SliceGAN to reconstruct the SOFC anode material from 2D 
 ## Source Images
 The data set is composed of a big SEM picture which has already been segmented. You can directly visit *https://edx.netl.doe.gov/dataset/sofc-microstructures-hsu-epting-mahbub-jps-2018* to have a try. Also, you can download the original pictures and then processed by *Avizo*.
 
-![image](anode_segmented_tiff_z050.png)
+![image]([anode_segmented_tiff_z050.png](https://github.com/senopiano/SliceGAN-SOFC-anode-material-reconstruction/blob/main/anode_segmented_tiff_z050.png))
